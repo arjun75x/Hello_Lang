@@ -8,6 +8,6 @@ Todo:
   - Change your picture, name, language, type, description, etc.
 
 Bugs:
-  - Filter doesn't allow multiple filters at once
-  - Filters clear after you go back to edit them
-  - Load current filters when you go to the filters screen
+  - ~~Filter doesn't allow multiple filters at once~~
+  - ~~Filters clear after you go back to edit them~~
+  - ~~Load current filters when you go to the filters screen~~
